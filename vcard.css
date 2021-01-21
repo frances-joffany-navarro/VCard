@@ -1,0 +1,52 @@
+body {
+    background-image: url(images/sunset.jpg);
+    background-size: auto;
+}
+
+main {
+    min-width: 150px;
+    max-width: 350px;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+header img {
+    /*background-color: teal;*/
+    padding: 20px 50px 10px 50px;
+}
+
+section img {
+    margin: 20px 20px 0px 20px;
+}
+
+section {
+    padding: 0px;
+    margin: 0px;
+    position: relative;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: teal;
+    text-align: center;
+}
+
+h1,
+p {
+    padding: 0%;
+    margin: 0%;
+}
+
+a {
+    text-decoration-line: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.button {
+    background-color: teal;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h1 {
+    font-size: 25px;
+}
